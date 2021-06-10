@@ -1,2 +1,2 @@
 # mining
-collection of mining resources
+A collection of mining resources
