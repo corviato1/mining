@@ -1,0 +1,1 @@
+dyn_miner http://1.2.3.4:6433/ user 123456 dy1qctckw9nlf9mx3th95snffammyty5m4km9fnur0 GPU 0

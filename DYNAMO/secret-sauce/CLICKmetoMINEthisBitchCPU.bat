@@ -1,0 +1,1 @@
+dyn_miner http://1.2.3.4:6433/ user 123456 dy1q8t22pfl2kzafj0ky8t59s5lw97g20yaedlx3fc CPU 1
